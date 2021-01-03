@@ -1,0 +1,12 @@
+{
+    "adresseI2C": 119,
+    "busI2C": 1,
+    "minuteur": 900000,
+    "idImmeuble": 1,
+    "serveur": {
+        "port": 80,
+        "adresse": "127.0.0.1",
+        "cheminAcces": "/Foo/Bar",
+        "mdp": "Baz"
+    }
+}
